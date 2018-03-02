@@ -12,9 +12,8 @@ import GameplayKit
 class GameScene: SKScene {
     
     
-    
     override func didMove(to view: SKView) {
-  
+
     }
     
     func move(toPoint pos : CGPoint) {
